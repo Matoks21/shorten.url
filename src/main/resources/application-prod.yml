@@ -1,0 +1,4 @@
+#application-prod.yml
+build:
+  docker:
+    web: Dockerfile
